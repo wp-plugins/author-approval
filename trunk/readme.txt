@@ -1,5 +1,5 @@
 === Author Approval ===
-Contributors: 
+Contributors: Jake Evans
 Donate link: 
 Tags: authors, approval, author approval, multi-author, cms, release
 Requires at least: 3.0.1
