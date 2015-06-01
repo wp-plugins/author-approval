@@ -12,7 +12,7 @@ This plugin allows authors to easily be assigned to pages(s) from one place to o
 
 == Description ==
 
-=== Author Approval ===
+
 
 Does your WordPress site have multiple Authors? Do you use WordPress more as a Content Management Systems (CMS)? Are you looking for a way to streamline the editing process of your website's pages? Do you have periodic 'Releases' of your site? If you answered yes to any of these questions, then this plugin may fulfill your needs. 
 
