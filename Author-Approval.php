@@ -296,9 +296,9 @@ function author_approval_jre_approval_rejection_creation_and_execution(){
     $user_role = array_shift($user_roles);
 
     // If user's role is "Author", write logic to create APPROVAL and REJECTION admin bar links
-    if($user_role == 'administrator'){
+    if($user_role == 'author'){
         
-        $role = get_role( 'administrator' );
+        $role = get_role( 'author' );
         $role->add_cap( 'edit_pages' );
 
         // If user is currently editing a page, create and display APPROVAL and REJECTION admin bar links
