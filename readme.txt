@@ -25,7 +25,7 @@ With this plugin, you'll be able to assign each page to a specific author, whose
 
 **How it works:**
 
-*Author Approval Process-
+* Author Approval Process-
 
 It's pretty simple. Those that will be approving pages must have their role set to 'Author'. When an Author logs into WordPress and clicks on 'Pages' in the dashboard, they'll see only the pages they've been made the author of. The Author will then click a page title, as if to edit the page. At the top of the page, they will see two additions to the Admin bar; an 'Accept This Page' link and a 'Reject This Page' link.
 
@@ -36,7 +36,7 @@ If they have any issues with their page and wish to make those issues known, the
 When an administrator logs in, they can navigate to the Author Approval Options page (which will display under the 'Settings' menu of the WordPress Dashboard), 
 click on the 'View Approved Pages' button, and see a list of all pages that have been approved.
 
-*Assigning An Author to a Page-
+* Assigning An Author to a Page-
 
 When an administrator is logged in, they can navigate to the Author Approval Options page, select an author from the drop-down menu, and choose what pages 
 to make that author an author of. The pages that display are pages that the selected author is not currently an author of. Once the pages have been decided on, the administrator can click 
